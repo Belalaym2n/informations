@@ -1,0 +1,17 @@
+{
+  "appTitle": "خبر",
+  "drawerName": "تطبيق الأخبار!",
+  "categories":"فئات",
+  "settings":"اعدادات",
+  "descriptionCategory":"اختر الفئة الخاصة بك  من الاهتمام",
+    "sports":"رياضي",
+    "health":"الصحة",
+    "business":"مهنة",
+    "technology":"التقنية",
+    "general":"عام",
+   "entertainment":"ترفيه",
+    "arabic":"العربية",
+     "english":"الإنكليزية",
+     "language":"اللغة"
+
+}

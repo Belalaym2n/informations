@@ -1,0 +1,17 @@
+{
+  "appTitle": "News",
+  "drawerName": "News App!",
+  "categories":"Categories",
+  "settings":"Settings",
+  "descriptionCategory":"Pick your category\n of interest",
+  "sports":"Sports",
+  "health":"Health",
+  "business":"Business",
+  "technology":"Technology",
+  "general":"General",
+  "entertainment":"Entertainment",
+  "arabic":"Arabic",
+  "english":"English",
+  "language":"Language"
+
+}
